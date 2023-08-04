@@ -1,0 +1,42 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "f3a1d245-f858-4736-8dba-8411ee42f664",
+            "collectionId": "Ukrainian",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Ukrainian/Ukrainian_Fable/f3a1d245-f858-4736-8dba-8411ee42f664/f3a1d245-f858-4736-8dba-8411ee42f664_uk_Female.mp4"
+        },
+        {
+            "id": "67523b90-4ca7-4da3-9720-b8d7b6819738",
+            "collectionId": "Ukrainian",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Ukrainian/Ukrainian_Fable/67523b90-4ca7-4da3-9720-b8d7b6819738/67523b90-4ca7-4da3-9720-b8d7b6819738_uk_Female.mp4"
+        },
+        {
+            "id": "8ef43354-e9ed-41af-a6a8-73317f958d19",
+            "collectionId": "Ukrainian",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Ukrainian/Ukrainian_Fable/8ef43354-e9ed-41af-a6a8-73317f958d19/8ef43354-e9ed-41af-a6a8-73317f958d19_uk_Female.mp4"
+        },
+        {
+            "id": "40135a0b-f666-4d7a-9528-840eb728bab0",
+            "collectionId": "Ukrainian",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Ukrainian/Ukrainian_Fable/40135a0b-f666-4d7a-9528-840eb728bab0/40135a0b-f666-4d7a-9528-840eb728bab0_uk_Female.mp4"
+        },
+        {
+            "id": "7d60aa48-dd04-4592-82f3-c808289f4235",
+            "collectionId": "Ukrainian",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Ukrainian/Ukrainian_Fable/7d60aa48-dd04-4592-82f3-c808289f4235/7d60aa48-dd04-4592-82f3-c808289f4235_uk_Female.mp4"
+        }
+    ]
+}
